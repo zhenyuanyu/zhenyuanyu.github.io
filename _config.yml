@@ -21,12 +21,12 @@ repository               : "zhenyuanyu/zhenyuanyu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.png"
   name             : "Zhenyuan Yu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "Raleigh, NC, US"
-  employer         : "Red Brick University"
+  employer         : "University of North Carolina at Chapel Hill & NC State University"
   uri              : # URL
   email            : "zhenyuanyu96@gmail.com" 
 

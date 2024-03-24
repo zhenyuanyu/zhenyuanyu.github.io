@@ -7,10 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website 
-
 Biography
 ------
 I am Zhenyuan Yu, currently a graduate student at the Joint Department of Biomedical Engineering at UNC Chapel Hill and NC State University. My research interest is the development of wearable robotics which could help the users have better life quality. My skill set mainly contains mechatronics design, development of embedded system, motor control, and biomechanics analysis. Right now I am looking for a job in the robotics and engineering field. 
@@ -27,6 +23,11 @@ Education
    M.S. in Mechanical Engineering, 2019.09-2024.05
 3. Xi'an Jiaotong University
    B.S. in Mechanical Engineering
+
+A data-driven personal website
+======
+Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website 
+
 
 Research Interest
 ------

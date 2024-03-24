@@ -11,10 +11,6 @@ Biography
 ------
 I am Zhenyuan Yu, currently a graduate student at the Joint Department of Biomedical Engineering at UNC Chapel Hill and NC State University. My research interest is the development of wearable robotics which could help the users have better life quality. My skill set mainly contains **mechatronics design, development of embedded system, motor control, and biomechanics analysis**. Right now I am looking for a job in the robotics and engineering field. 
 
-Research Interest
-------
-For site content, the
-
 Education
 ------
 1. **University of North Carolina at Chapel Hill & NC State University**

@@ -18,7 +18,7 @@ Education
 2. **Xi'an Jiaotong University**     
    **M.S.** in Mechanical Engineering, 2019.09-2024.05
 3. **Xi'an Jiaotong University**      
-   **B.S.** in Mechanical Engineering
+   **B.S.** in Mechanical Engineering, 2015.09-2019.06
 
 A data-driven personal website
 ======

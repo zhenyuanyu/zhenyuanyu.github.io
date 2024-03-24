@@ -13,11 +13,11 @@ I am Zhenyuan Yu, currently a graduate student at the Joint Department of Biomed
 
 Education
 ------
-1. **University of North Carolina at Chapel Hill & NC State University**
+1. **University of North Carolina at Chapel Hill & NC State University**      
    **M.S**. in Biomedical Engineering, 2022.08-2024.08   
-2. **Xi'an Jiaotong University**
+2. **Xi'an Jiaotong University**     
    **M.S.** in Mechanical Engineering, 2019.09-2024.05
-3. **Xi'an Jiaotong University**
+3. **Xi'an Jiaotong University**      
    **B.S.** in Mechanical Engineering
 
 A data-driven personal website

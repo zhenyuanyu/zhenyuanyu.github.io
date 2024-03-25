@@ -7,10 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Research
+Videos
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-
-
-the [_talks directory](https://www.youtube.com/watch?v=xUTtMf36So4&t=10s).
+Reference video about design of a hip exoskeleton and control of a 6-DoF Stewart platform. [link](https://www.youtube.com/watch?v=xUTtMf36So4&t=10s).

@@ -23,18 +23,18 @@ Design and build an agricultural mobile robot. Build single robot trunk localiza
 * **Design of a Stiffness-adjustable Robot Driving Joint and Analysis of Its Dynamic Characteristics**    
 Design and build a stiffness-adjustable robot driving joint. Complete the task of motor drive. Study the control algorithms for changing the stiffness of the robot joint. Measure the dynamic characteristics of the joint under different stiffness.
  
-Main skills: 1. Model design -Solidworks; finite element simulation analysis -ANSYS.
-             2. Drive and test of DC servo motor.
-             3. The development of control algorithms based on MCU(STM32).
-             4. Data analysis in Matlab.
+    Main skills: 1. Model design -Solidworks; finite element simulation analysis -ANSYS.
+                 2. Drive and test of DC servo motor.
+                 3. The development of control algorithms based on MCU(STM32).
+                 4. Data analysis in Matlab.
 
 Collaborative Projects
 
 * **Gait Recognition and Torque Control of Lower Limb Lightweight Assistance Exoskeleton**   
 Participate in designing a unified gait phase control method which can be used for horizontal walking and obstacle crossing using fuzzy rules. Complete the experimental verification of 6 healthy participants. Help design and test the characteristics of a novel soft force sensor. Intend to improve the performance of the exoskeleton torque control, and make the wearing experience more comfortable.     
 
-Main skills: 1. Programming of the user-interface based on C, and C++.   
-             2. Algorithm verification and data analysis in Matlab.   
+    Main skills: 1. Programming of the user-interface based on C, and C++.   
+                 2. Algorithm verification and data analysis in Matlab.   
 
 
 

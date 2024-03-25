@@ -1,3 +1,3 @@
 ---
-permalink: /files/paper1.pdf
+permalink: http://zhenyuanyu.github.io/files/paper1.pdf
 ---

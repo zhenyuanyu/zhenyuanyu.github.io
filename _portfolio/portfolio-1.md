@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Reference video about design of a hip exoskeleton and control of a 6-DoF Stewart platform "
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---

@@ -29,6 +29,12 @@ Exchange Student Experience
 * Summer Credit Program, University of California, Los Angeles, 2017.06-2017.08.      
   Selected to participate in the summer credit program in UCLA. Complete 2 courses (Elementary Fluid Mechanics and Computer-Aided Design and Drafting) with local students, and finish the practical projects. Receive grade of A for both courses.    
 * Overseas Graduation Project, New York State University, Binghamton, 2019.01-2019.05   
-  Selected and fully funded by the school of mechanical engineering to finish the graduation project overseas. The dissertation is completed under the advisement of Prof. Eva Wu, New York State University, and Prof. Sun’an Wang, Xi’an Jiaotong University.    
+  Selected and fully funded by the school of mechanical engineering to finish the graduation project overseas. The dissertation is completed under the advisement of Prof. Eva Wu, New York State University, and Prof. Sun’an Wang, Xi’an Jiaotong University.
+
+Teaching Experience
+======
+* BME207, Biomedical Electronics, UNC&NCSU, Spring 2024.
+* Mechatronics System Design, Xi'an Jiaotong University, Spring 2021.
+* Industrial sociology, Xi'an Jiaotong University, Fall 2020.
 
 

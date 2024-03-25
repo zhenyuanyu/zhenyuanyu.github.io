@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "More About Me"
+title: ""
 permalink: /More About Me/
 author_profile: true
 ---
+
+{% include base_path %}
 
 Research
 ======

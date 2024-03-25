@@ -11,6 +11,16 @@ Research
 ======
 Main Projects
 
+* **Development of a Wearable Robotic Rehabilitation System for Neuro-Rehabilitation**       
+Develop a visual feedback user interface using Python aimed at enhancing mediolateral balance. Use User Datagram Protocol (UDP) to accomplish the communication between the user interface and an abduction/adduction hip exoskeleton.
+Apply individualized parameters of an impedance controller of the exoskeleton to simulate individualized training difficulties. Analyze the kinetic, kinematic, and EMG response of the visuomotor training. 
+Analyze the biomechanics response to mediolateral assistance provided by powered hip exoskeleton in different step width during walking. The data is recorded by Vicon and processed in Visual3D.
+
+    Main skills: 1. Build the visual feedback interface in Python.
+                 2. Apply an impedance controller in Twincat.
+                 3. Record the subject motion data using Vicon and analyze in Visual3D.
+
+
 * **Research on Collaborative Mapping of Multi Ground Robots in Semi-Structured Orchard Environment**   
 Design and build an agricultural mobile robot. Build single robot trunk localization system based on multiple sensors information. Apply related single robot simultaneous localization and mapping algorithms. Complete the horizontal control of a 6-DOF Stewart platform to isolate the disturbance caused by terrains when robot move. Study multi-robot map stitching methods. Validate the performance of multi-robot collaborative mapping.    
 

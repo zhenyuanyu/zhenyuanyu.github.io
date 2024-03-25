@@ -7,8 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Research
+Personal Interest and Leisure Time Activity
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Basketball is my favorite sport. I enjoy playing basketball with friends every week. I'm a big fan of Golden State Worriors since 2013.
+* I like playing piano and reading novels and sci-fi in my leisure time.

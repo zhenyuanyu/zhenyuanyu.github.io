@@ -20,7 +20,7 @@ Honors
                      
 Awards
 
-/bullet Outstanding graduates. School of Mechanical Engineering, Xi’an Jiaotong University, 2019.06.    
+\bullet Outstanding graduates. School of Mechanical Engineering, Xi’an Jiaotong University, 2019.06.    
 \bullet Siyuan Scholarship. Xi’an Jiaotong University, 2018.09.     
 \bullet Fast Gears Scholarship. Xi’an Jiaotong University, 2017.09.     
 \bullet Fast Gears Scholarship. Xi’an Jiaotong University, 2016.09.     

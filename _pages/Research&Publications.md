@@ -11,14 +11,14 @@ Research
 ======
 Main Projects
 
-* **Research on Collaborative Mapping of Multi Ground Robots in Semi-Structured Orchard Environment**   
+* {**Research on Collaborative Mapping of Multi Ground Robots in Semi-Structured Orchard Environment**   
 Design and build an agricultural mobile robot. Build single robot trunk localization system based on multiple sensors information. Apply related single robot simultaneous localization and mapping algorithms. Complete the horizontal control of a 6-DOF Stewart platform to isolate the disturbance caused by terrains when robot move. Study multi-robot map stitching methods. Validate the performance of multi-robot collaborative mapping.    
 
 Main skills:  1.Design and implementation of the robot system: including mechanical design, PCB design and layout, and embedded system application development.   
               2. The development of the machine vision algorithms based on Opencv.   
               3. Algorithm verification in simulation environment and data analysis.    
               4. Drive and test of DC servo motor.   
-              5. Synchronous control of multiple MCUs.   
+              5. Synchronous control of multiple MCUs.}   
 
 * **Design of a Stiffness-adjustable Robot Driving Joint and Analysis of Its Dynamic Characteristics**    
 Design and build a stiffness-adjustable robot driving joint. Complete the task of motor drive. Study the control algorithms for changing the stiffness of the robot joint. Measure the dynamic characteristics of the joint under different stiffness.

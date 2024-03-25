@@ -7,16 +7,11 @@ main:
     url: /cv/    
 
   - title: "Portfolio"
-    url: /portfolio/
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /portfolio/ 
         
   - title: "Awards&Other Experience"
-    url: /year-archive/
+    url: /Awards&Other Experience/
     
   - title: "More About Me"
-    url: /cv/
+    url: /More About Me/
     
-  - title: "Guide"
-    url: /markdown/

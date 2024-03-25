@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Awards&Other Experience"
+title: ""
 permalink: /Awards&Other Experience/
 author_profile: true
 ---
-
+{% include base_path %}
 
 Research
 ======

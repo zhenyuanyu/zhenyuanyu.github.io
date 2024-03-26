@@ -14,4 +14,4 @@ Personal Interest and Leisure Time Activity
 * I also love hiking in state and national parks.
 
 <img src = "https://zhenyuanyu.github.io/images/hiking2.png" width=720 height=540/>
-<img src = "https://zhenyuanyu.github.io/images/hiking1.png" width=540 height=720/>
+<img src = "https://zhenyuanyu.github.io/images/hiking1.png" width=405 height=540/>

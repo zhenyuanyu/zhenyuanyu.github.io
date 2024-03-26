@@ -16,5 +16,5 @@ Personal Interest and Leisure Time Activity
 ![Image text](https://zhenyuanyu.github.io/images/hiking1.png)
 ![Image text](https://zhenyuanyu.github.io/images/hiking2.png)
 
-<img src = "https://zhenyuanyu.github.io/images/hiking1.png"width=200,height=200/>
-<img src = "https://zhenyuanyu.github.io/images/hiking2.png"width=200,height=200/>
+<img src = "https://zhenyuanyu.github.io/images/hiking1.png" width=200 height=200/>
+<img src = "https://zhenyuanyu.github.io/images/hiking2.png" width=200 height=200/>

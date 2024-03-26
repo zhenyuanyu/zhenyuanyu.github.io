@@ -13,4 +13,4 @@ Personal Interest and Leisure Time Activity
 * I like playing piano and reading novels and sci-fi in my leisure time. "Three body problem" is my favorite sci-fi book.
 * I also love hiking in state and national parks.
 
-![Image text](https:zhenyuanyu.github.io/images/profile.png)
+![Image text](https://zhenyuanyu.github.io/images/profile.png)
